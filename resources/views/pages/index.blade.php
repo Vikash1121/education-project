@@ -10,7 +10,7 @@
             <h2>Wordpress Developer</h2><br>
             <p>I am continuously learning new tools and frameworks to improve my skills and stay updated with industry trends. My goal is to grow as a developer and contribute to building impactful and high-quality web applications..</p>
             <div class="download-social">
-                <a href="{{asset('frontend/Vikash 3months resume (1).pdf')}}" class="btn"> Download CV</a>
+                <a href="{{asset('frontend/VIKASH.pdf')}}" class="btn"> Download CV</a>
                 <div class="social-icons">
                     <a href="https://wa.me/917392957078"><i class="ri-whatsapp-line"></i>
                     <a href="https://www.linkedin.com/in/vikash-kumar"><i class="ri-linkedin-fill"></i></a>
@@ -63,7 +63,7 @@
                 <div><strong>Qualification:</strong> BCA</div>
             </div>
 
-            <a href="{{asset('frontend/Vikash 3months resume (1).pdf')}}" class="btn">
+            <a href="{{asset('frontend/VIKASH.pdf')}}" class="btn">
                 Download Resume
             </a>
 
