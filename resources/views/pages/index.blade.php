@@ -13,7 +13,7 @@
                 <a href="{{asset('frontend/VIKASH.pdf')}}" class="btn"> Download CV</a>
                 <div class="social-icons">
                     <a href="https://wa.me/917392957078"><i class="ri-whatsapp-line"></i>
-                    <a href="https://www.linkedin.com/in/vikash-kumar"><i class="ri-linkedin-fill"></i></a>
+                    <a href="https://www.linkedin.com/in/vikash-kumar014"><i class="ri-linkedin-fill"></i></a>
                     <a href="tel:+917392957078"><i class="ri-phone-line"></i>
                     <a href="mailto:vikashk57387@gmail.com"><i class="ri-mail-line"></i>
                 </div>
